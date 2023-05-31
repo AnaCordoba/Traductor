@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'msdocs-python-postgres-246'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64F8164247B24948859DB705AB6CB7A1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0D26A69E9844FFAB3D876263627E0F3 }}
