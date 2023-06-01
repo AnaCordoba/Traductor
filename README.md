@@ -5,10 +5,7 @@
 # Traductor
 
 # Qué hace el proyecto? 
-# Este poryecto consiste en el desarrollo de una aplicación web con base en programación Python, el framework Flask 
-# y AZURE. Esta aplicación fue diseñada para: permitir ingresar al cliente un texto, identificar el idioma del texto que se ingrese, 
-# permitir # al usuario elegir por medio de un menú plegable el idioma al cual desea se traduzca el texto (3 idiomas disponibles: Inglés, 
-# Frances y # # Alemán), mostrar la traducción del texto inrgesado una vez el cliente oprima el botón "traducir".
+Este poryecto consiste en el desarrollo de una aplicación web con base en programación Python, el framework Flask y AZURE. Esta aplicación fue diseñada para: permitir ingresar al cliente un texto, identificar el idioma del texto que se ingrese, permitir # al usuario elegir por medio de un menú plegable el idioma al cual desea se traduzca el texto (3 idiomas disponibles: Inglés, Frances y # # Alemán), mostrar la traducción del texto inrgesado una vez el cliente oprima el botón "traducir".
 
 # Por qué el proyecto es útil? 
 # más allá de permitir realizar la traducción de un texto a un idioma seleccionado o la detección del mismo, el proyecto permite de forma 
