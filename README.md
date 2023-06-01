@@ -6,7 +6,7 @@ Curso Tecnologías de la Industria 4.o - Doctorado en Ingeniería - UNAB
 # Traductor
 
 # Qué hace el proyecto? 
-Este proyecto consiste en el desarrollo de una aplicación web con base en programación Python, el framework Flask y AZURE. Esta aplicación fue diseñada para: permitir ingresar al cliente un texto, identificar el idioma del texto que se ingrese, permitir # al usuario elegir por medio de un menú plegable el idioma al cual desea se traduzca el texto (3 idiomas disponibles: Inglés, Frances y # # Alemán), mostrar la traducción del texto inrgesado una vez el cliente oprima el botón "traducir".
+Este proyecto consiste en el desarrollo de una aplicación web con base en programación Python, el framework Flask y AZURE. Esta aplicación fue diseñada para: permitir ingresar al cliente un texto, identificar el idioma del texto que se ingrese, permitir # al usuario elegir por medio de un menú plegable el idioma al cual desea se traduzca el texto (3 idiomas disponibles: Inglés, Frances y Alemán), mostrar la traducción del texto inrgesado una vez el cliente oprima el botón "traducir".
 
 # Por qué el proyecto es útil? 
 más allá de permitir realizar la traducción de un texto a un idioma seleccionado o la detección del mismo, el proyecto permite de forma rápida reconocer la interconexión entre las plataformas utilizadas, logrando contar con un despliegue de la aplicación de forma ágil, de libre acceso, sin costo y que integra entornos que son tendencia en la actualidad para desarrollo de aplicaciones web.
