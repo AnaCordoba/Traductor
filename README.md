@@ -1,5 +1,6 @@
 # Proyecto CLOUD COMPUTING
-Realizado por: Ana Rocío Córdoba Malaver.
+Realizado por: Ana Rocío Córdoba Malaver
+
 Curso Tecnologías de la Industria 4.o - Doctorado en Ingeniería - UNAB
 
 # Traductor
